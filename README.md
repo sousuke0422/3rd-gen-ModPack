@@ -8,3 +8,4 @@ ForgeVersion:2709
 
 リリースにあるものを利用すると、Twitchでインポートできます。
 
+作者のDiscord:https://discord.gg/Zwm9yNz
